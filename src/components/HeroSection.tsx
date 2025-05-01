@@ -47,7 +47,7 @@ const HeroSection = () => {
         >
           <div className="relative w-full h-full rounded-2xl overflow-hidden border-4 border-white dark:border-gray-700 shadow-xl">
             <Image
-              src="/profile-placeholder.jpg"
+              src="/profile.png"
               alt="Developer"
               fill
               style={{ objectFit: 'cover' }}
