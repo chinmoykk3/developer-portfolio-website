@@ -33,6 +33,7 @@ A modern, responsive developer portfolio website built with Next.js 15 and Tailw
 ### Prerequisites
 
 - Node.js 18.17 or later
+- tailwind css
 
 
 
